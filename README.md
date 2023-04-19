@@ -5,4 +5,5 @@ Uses scrollViewWillEndDragging to cancel scrolling multiple items at once and de
 
 If using iOS 13 or later, this can be achieved with UICollectionViewCompositionalLayout.
 
-https://user-images.githubusercontent.com/28383179/233114973-b29be7cd-7cd5-44eb-bae0-357a382ffc8d.mp4
+
+![Simulator_Screen_Recording_-_iPhone_14_-_2023-04-19_at_22_47_40_AdobeExpress-2](https://user-images.githubusercontent.com/28383179/233116858-59183f88-470b-477f-8df3-e727f7d6b294.gif)
