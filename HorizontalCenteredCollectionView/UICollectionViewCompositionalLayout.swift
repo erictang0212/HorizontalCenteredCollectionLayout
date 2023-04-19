@@ -3,7 +3,7 @@
 //  HorizontalCenteredCollectionView
 //
 //  Created by ShaoHuan Tang on 2023/4/19.
-//
+//  參考: https://medium.com/彼得潘的-swift-ios-app-開發問題解答集/uicollectionviewcompositionallayout-常見排版範例-7656068783d9
 
 import UIKit
 

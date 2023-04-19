@@ -3,7 +3,7 @@
 //  HorizontalCenteredCollectionView
 //
 //  Created by ShaoHuan Tang on 2023/4/19.
-//
+//  參考: https://stackoverflow.com/questions/22895465/paging-uicollectionview-by-cells-not-screen
 
 import UIKit
 
